@@ -18,11 +18,9 @@ Higher education depends heavily on open source software, but evaluating an open
 
 A repository may be publicly available while important questions remain unanswered:
 
-- Is the software released under an appropriate open source license?
-- Can people outside the original institution participate?
+- Licensing issues beyond copyright, e.g., trademarks.
 - Is project governance documented?
 - Is there a functioning community?
-- Can another institution deploy and maintain the software?
 - Is the project dependent on one person, department, institution, or funder?
 - Are documentation and contribution processes sufficient for wider adoption?
 - Does the project demonstrate a pathway toward long-term sustainability?
