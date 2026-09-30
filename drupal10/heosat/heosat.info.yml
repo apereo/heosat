@@ -1,0 +1,5 @@
+name: HEOSAT
+type: module
+description: 'Higher Education Open Source Assessment Tool.'
+package: Apereo
+core_version_requirement: ^10 || ^11

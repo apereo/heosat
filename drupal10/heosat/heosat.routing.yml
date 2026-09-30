@@ -1,0 +1,7 @@
+heosat.app:
+  path: '/heosat'
+  defaults:
+    _controller: '\Drupal\heosat\Controller\HeosatController::app'
+    _title: 'HEOSAT'
+  requirements:
+    _permission: 'access content'
